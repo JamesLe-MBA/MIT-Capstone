@@ -1,4 +1,4 @@
-# James Le Global Credit Union
+# James Le Global Credit Union (GCU)
 
 MIT Capstone: Full-Stack Banking Application
 
