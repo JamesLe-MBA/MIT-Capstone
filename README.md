@@ -4,8 +4,6 @@ MIT Capstone: Full-Stack Banking Application
 
 Website Deployment: AWS S3 Bucket
 
-Explore GCU for the React App
-
 # <div align="center">GCU = Crypto Currency + Blockchain</div>
 
 
